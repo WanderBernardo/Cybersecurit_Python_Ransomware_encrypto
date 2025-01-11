@@ -7,7 +7,7 @@ Objetivo é encriptograr um arquivo para quando alguém abrir não conseguir ent
 - Linguagem Python (https://www.python.org/)
 - NANO (neste exemplo usaremos o NANO para construir e executar o código, mas podem usar outras ferramentas como myCompiler, CMD etc. Já tem instalado no Kali) (https://medium.com/@habbema/tutorial-do-nano-3e6aec905213)
 
-### Resumo do que o codigo faz:
+### Resumo:
 
  - Acesso o Terminal Emulator (CMD)
  - Iniciar NANO: nano
@@ -17,7 +17,7 @@ Objetivo é encriptograr um arquivo para quando alguém abrir não conseguir ent
  - Construir o codigo para criptografar o arquivo
  - Construir o codigo para salvar o arquivo criptografado
 
-### Detalhamento do codigo construído:
+### Detalhamento:
 
 01 - Acesso o Terminal Emulator (CMD):
 ![image](https://github.com/user-attachments/assets/e8537deb-7a38-4b89-8e8e-60e1cfce7d2a)
