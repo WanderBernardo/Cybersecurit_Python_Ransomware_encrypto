@@ -5,7 +5,7 @@ Objetivo é encriptograr um arquivo para quando alguém abrir não conseguir ent
 
 - Kali Linux (https://www.kali.org/)
 - Linguagem Python (https://www.python.org/)
-- NANO (neste exemplo usaremos o NANO para construir e executar o código, mas podem usar outras ferramentas como myCompiler, CMD etc. Já tem instalado no Kali) (https://medium.com/@habbema/tutorial-do-nano-3e6aec905213)
+- NANO (neste exemplo usaremos o NANO para construir e executar o código, mas podem usarem outras ferramentas como myCompiler, CMD etc. Já tem instalado no Kali) (https://medium.com/@habbema/tutorial-do-nano-3e6aec905213)
 
 ### Resumo:
 
