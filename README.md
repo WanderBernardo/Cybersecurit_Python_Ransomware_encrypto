@@ -7,6 +7,9 @@ Objetivo é encriptograr um arquivo para quando alguém abrir não conseguir ent
 - Linguagem Python (https://www.python.org/)
 - NANO (neste exemplo usaremos o NANO para construir e executar o código, mas podem usarem outras ferramentas como myCompiler, CMD etc. Já tem instalado no Kali) (https://medium.com/@habbema/tutorial-do-nano-3e6aec905213)
 
+### Ponto Importante:
+ - Código construido aqui é um simples, pode ser melhorado automatizando a localização do arquivo, por exemplo.
+
 ### Resumo:
 
  - Acesso o Terminal Emulator (CMD)
@@ -66,6 +69,8 @@ Antes de iniciar a construir o código criei o arquivo com a instensão ``` .py 
 ![image](https://github.com/user-attachments/assets/4cc11580-2540-44a8-8677-10d7f6f5eff5)
 
 ``` Depois ```
+
+![image](https://github.com/user-attachments/assets/60904200-e1fe-4da2-b7e9-b1f106250b51)
 
 
 
