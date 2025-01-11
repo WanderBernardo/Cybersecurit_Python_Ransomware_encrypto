@@ -10,9 +10,10 @@ Objetivo é encriptograr um arquivo para quando alguém abrir não conseguir ent
 ### Ponto Importante:
  - Código construido aqui é um simples, pode ser melhorado automatizando a localização do arquivo, por exemplo.
  - Caso ao executar o codigo apresente o erro "ModuloNotFoundError: No modulo named 'pyaes'". Então, deve instalar a biblioteca: ``` pyaes ```.
-       - ``` sudo apt-get update && sudo apt-get upgrade ```
    
-       - ``` sudo apt install python3-pyaes ``` 
+       - sudo apt-get update && sudo apt-get upgrade
+   
+       - sudo apt install python3-pyaes
 
 ### Resumo:
 
