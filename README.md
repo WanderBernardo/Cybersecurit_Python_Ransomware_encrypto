@@ -77,9 +77,11 @@ Antes de iniciar a construir o código criei o arquivo com a instensão ``` .py 
 
 ![image](https://github.com/user-attachments/assets/60904200-e1fe-4da2-b7e9-b1f106250b51)
 
+## Arquivo com o codigo construindo no anexo: "encryter"
 
+## Proximos Passos
 
-
+Descriptografar o arquivo: https://github.com/WanderBernardo/Python_Decrypt_File
 
 
 
