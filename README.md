@@ -11,11 +11,11 @@ Objetivo é encriptograr um arquivo para quando alguém abrir não conseguir ent
 
  - Acesso o Terminal Emulator (CMD)
  - Iniciar NANO: nano
- - Construir o codigo para abrir o arquivo a ser criptografado
- - Construir o codigo para remover o arquivo o arquivo original
- - Construir o codigo para chave de criptografia
- - Construir o codigo para criptografar o arquivo
- - Construir o codigo para salvar o arquivo criptografado
+ - Construir o código para abrir o arquivo a ser criptografado
+ - Construir o código para remover o arquivo o arquivo original
+ - Construir o código para chave de criptografia
+ - Construir o código para criptografar o arquivo
+ - Construir o código para salvar o arquivo criptografado
 
 ### Detalhamento:
 
@@ -25,9 +25,47 @@ Objetivo é encriptograr um arquivo para quando alguém abrir não conseguir ent
 02 - Para acessar o NANO apenas digitar ``` nano ``` na tela
 ![image](https://github.com/user-attachments/assets/2d647809-8d8a-4d24-9228-7febcd4cd626)
 
-03 - Antes de iniciar a digitar o codigo precisamos importar duas bibliotecas para o codigo:
+03 - Antes de iniciar a digitar o código precisamos importar duas bibliotecas para o codigo:
+
  - os    - é um conjunto de funções que permite interagir com o sistema operacional na maquina.
+ 
  - pyaes - é o algoritmo que será usado para cryptograr
+   
+Antes de iniciar a construir o código criei o arquivo com a instensão ``` .py ``` 
+
+![image](https://github.com/user-attachments/assets/bd382476-db3f-409f-84e5-c5d626d3fafb)
+
+04 - Construir o código para abrir o arquivo a ser criptografado
+
+![image](https://github.com/user-attachments/assets/138ec3b1-6b23-4fc8-a0c5-5c1973ab08ec)
+
+05 - Construir o código para remover o arquivo o arquivo original
+
+![image](https://github.com/user-attachments/assets/e6d95eee-acb8-4353-bf42-589ef7c2ed58)
+
+06 - Construir o código para chave de criptografia
+
+![image](https://github.com/user-attachments/assets/c526f563-2f1e-4894-b2dd-3f5dcdc5d811)
+
+07 - Construir o código para criptografar o arquivo
+
+![image](https://github.com/user-attachments/assets/a83ac9d6-4832-4ade-9e39-f0694b47db8a)
+
+08 - Construir o código para salvar o arquivo criptografado
+
+![image](https://github.com/user-attachments/assets/2ff8d915-9151-4fa4-960c-01b46fe6faf1)
+
+09 - Salvar o código digitando: ``` Ctrl + o ``` para salvar e ``` Ctrl + x ``` para sair do editor de texto NANO. Para executar digite na tela de comando: ``` python nome do arquivo do codigo criado```, no nosso exemplo: codigo_encrypto.py
+
+
+
+## Resultado
+
+``` Antes ```
+
+![image](https://github.com/user-attachments/assets/4cc11580-2540-44a8-8677-10d7f6f5eff5)
+
+``` Depois ```
 
 
 
