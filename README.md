@@ -1,4 +1,4 @@
-# Encriptografar um arquivo
+# Encriptografar arquivo
 Objetivo é encriptograr um arquivo para quando alguém abrir não conseguir entender/identificar do que se trata.
 
 ### Ferramentas utilizadas:
