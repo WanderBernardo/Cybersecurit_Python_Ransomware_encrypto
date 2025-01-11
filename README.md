@@ -7,7 +7,7 @@ Objetivo é encriptograr um arquivo para quando alguém abrir não conseguir ent
 - Linguagem Python (https://www.python.org/)
 - NANO (neste exemplo usaremos o NANO para construir e executar o código, mas podem usarem outras ferramentas como myCompiler, CMD etc. Já tem instalado no Kali) (https://medium.com/@habbema/tutorial-do-nano-3e6aec905213)
 
-### Ponto Importante:
+### Pontos Importantes:
  - Código construido aqui é um simples, pode ser melhorado automatizando a localização do arquivo, por exemplo.
  - Caso ao executar o codigo apresente o erro "ModuloNotFoundError: No modulo named 'pyaes'". Então, deve instalar a biblioteca: ``` pyaes ```.
    
